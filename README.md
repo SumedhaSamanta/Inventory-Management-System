@@ -4,7 +4,7 @@ This is a project given under the Python for AI/ML internship by Elite Techno Gr
 Functionalities:
 
 - main()
-- 
+
 - userMain()
     - viewInventory()
     
